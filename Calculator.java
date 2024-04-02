@@ -6,6 +6,10 @@
         return num1 + num2;
     }
 
+    public void playMusic(){
+        System.out.println("Play Music");
+    }
+
 }
 
     public  class Calculator{
